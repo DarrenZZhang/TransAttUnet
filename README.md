@@ -12,7 +12,7 @@ If the code is helpful to your research, please cite:
 @article{chen2021transattunet,  
   title={Transattunet: Multi-level attention-guided u-net with transformer for medical image segmentation},  
   author={Chen, Bingzhi and Liu, Yishu and Zhang, Zheng and Lu, Guangming and Zhang, David},  
-  journal={arXiv preprint arXiv:2107.05274},  
-  year={2021}  
+  journal={IEEE Transactions on Emerging Topics in Computational Intelligence (TETCI)},  
+  year={2024}  
 }  
 ```
